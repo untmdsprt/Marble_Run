@@ -7,5 +7,4 @@ macOS Mojave
 
 ### Description
 
-Game is from GameDev.tv's [Unreal Engine Blueprint Developer: Learn Visual Scripting]
-(https://www.udemy.com/unrealblueprint/learn/lecture/12360014#overview) on Udemy.com
+Game is from GameDev.tv's [Unreal Engine Blueprint Developer: Learn Visual Scripting](https://www.udemy.com/unrealblueprint/learn/lecture/12360014#overview) on Udemy.com
